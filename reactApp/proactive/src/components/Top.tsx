@@ -61,6 +61,7 @@ export const Top = () => {
           })
     }
 
+    
     const faceDetection = () => {
         setInterval(async () => {
             if(webcamRef.current) {
