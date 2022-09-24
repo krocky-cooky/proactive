@@ -1,0 +1,5 @@
+https://zenn.dev/rihito/articles/96dfad8d4990f9
+
+https://blog.devgenius.io/simple-ai-face-and-emotion-recognition-with-react-da2921e6075e
+
+https://recharts.org/en-US/examples/SimpleRadarChart
